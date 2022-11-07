@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal045" alt="iqbal045" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iqbal0045" target="blank"><img src="https://img.shields.io/twitter/follow/iqbal0045?logo=twitter&style=for-the-badge" alt="@iqbal0045" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iqbal0045" target="blank"><img src="https://img.shields.io/twitter/follow/iqbal0045?logo=twitter&style=for-the-badge" alt="iqbal0045" /></a> </p>
 
 - 💬 Ask me about **Node.Js, MongoDB, Laravel, Vue.Js**
 
