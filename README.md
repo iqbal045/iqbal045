@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal045&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=iqbal045&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=iqbal045&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7))
+![](https://github-profile-trophy.vercel.app/?username=iqbal045&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iqbal045&icon=0&color=9)](https://visitcount.itsvg.in)
