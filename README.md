@@ -28,8 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iqbal00045"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iqbal00045" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal045&show_icons=true&locale=en&layout=compact" alt="iqbal045" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal045&show_icons=true&locale=en&layout=compact" alt="iqbal045" /></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbal045&show_icons=true&locale=en" alt="iqbal045" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbal045&show_icons=true&locale=en" alt="iqbal045" /></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbal045&" alt="iqbal045" /></p>
