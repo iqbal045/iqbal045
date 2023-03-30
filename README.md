@@ -1,6 +1,6 @@
  # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Abdullah Iqbal</h1>
-<h3 align="center">Hi! I am Abdullah Iqbal, I am Full-Stack Web Developer from Bangladesh.</h3>
+<h2 align="center">Hi 👋, I'm Abdullah Iqbal</h1>
+<h3 align="center">I am Full-Stack Web Developer from Bangladesh.</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iqbal0045) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbal045) 
