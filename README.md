@@ -34,7 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=iqbal045&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iqbal045&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iqbal045&label=Profile%20Views&color=11&icon=5&pretty=true)]
 
 ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iqbal045) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/iqbal045) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iqbal045) 
